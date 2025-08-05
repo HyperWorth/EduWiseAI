@@ -1,80 +1,67 @@
 import streamlit as st
-from data.db_manager import DBManager
-import json
-from ui import plan_viewer
-from logger import logger  # logger'ı ekliyoruz
+from utils import chart_utils
+from datetime import datetime
+import random
+from logger import logger  # Logger import edildi
 
-db = DBManager()
+# Opsiyonel: günlük motivasyon mesajları listesi
+MOTIVATION_QUOTES = [
+    "Bugün küçük bir adım, yarın büyük bir fark yaratır. 🚀",
+    "Vazgeçme! Zorluklar başarıya giden yoldaki işaretlerdir. 💪",
+    "Sadece başla. Mükemmellik zamanla gelir. ⏳",
+    "Her gün 1% ilerle, 1 yıl sonunda %37 daha iyi olursun. 📈",
+    "Sen çalıştıkça başarı senden kaçamaz. 🔥"
+]
 
-def show_history(user):
-    st.title("📚 Geçmiş Planlar ve Testler")
+def get_daily_motivation():
+    quote = random.choice(MOTIVATION_QUOTES)
+    logger.debug(f"Motivasyon mesajı seçildi: {quote}")
+    return quote
 
-    # Planları yükle
+def show_dashboard(
+    user_name: str,
+    target_minutes: list,
+    actual_minutes: list,
+    dates: list,
+    topic_data: list,
+    correct: int,
+    wrong: int,
+    difficulty_stats: dict
+):
+    logger.info(f"Dashboard gösteriliyor: Kullanıcı = {user_name}")
+    
     try:
-        st.subheader("📅 Geçmiş Öğrenme Planları")
-        plans = db.get_all_plans(user)
+        st.title("📊 Öğrenme Dashboard")
+        
+        st.subheader(f"Merhaba, {user_name} 👋")
+        st.success(f"🎯 Bugünün Hedefi: {target_minutes[-1]} dakika çalışmak.")
+        st.info(f"💡 Motivasyon: {get_daily_motivation()}")
+
+        logger.debug("Günlük ilerleme grafiği oluşturuluyor.")
+        st.markdown("---")
+        st.subheader("Günlük Çalışma İlerlemesi")
+        st.plotly_chart(chart_utils.plot_daily_progress(dates, target_minutes, actual_minutes), use_container_width=True)
+
+        logger.debug("Konu dağılım grafiği oluşturuluyor.")
+        st.markdown("---")
+        st.subheader("Konu Bazlı Dağılım")
+        st.plotly_chart(chart_utils.plot_topic_distribution(topic_data), use_container_width=True)
+
+        logger.debug("Test performansı grafikleri oluşturuluyor.")
+        st.markdown("---")
+        st.subheader("Test Performansı")
+        col1, col2 = st.columns(2)
+        with col1:
+            st.plotly_chart(chart_utils.plot_answer_stats(correct, wrong), use_container_width=True)
+        with col2:
+            st.plotly_chart(chart_utils.plot_difficulty_success(difficulty_stats), use_container_width=True)
+
+        st.markdown("---")
+        date_str = datetime.now().strftime('%d %B %Y')
+        st.caption(f"🗓️ {date_str} itibariyle güncellenmiştir.")
+
+        logger.info(f"Dashboard başarıyla gösterildi: {user_name} - Tarih: {date_str}")
+    
     except Exception as e:
-        st.error(f"❌ Planlar yüklenirken hata oluştu: {e}")
-        logger.exception(f"Planlar yüklenirken hata: {e}")
-        plans = []
-
-    if not plans:
-        st.info("Hiç plan bulunamadı.")
-    else:
-        for plan_id, plan_json, created_at in plans:
-            st.markdown(f"**🕒 Oluşturulma Tarihi:** `{created_at}`")
-            try:
-                plan_data = json.loads(plan_json)
-                with st.expander("📚 Öğrenme Planı"):
-                    plan_viewer.show_learning_plan_simple(plan_data)
-            except Exception as e:
-                st.error(f"❌ Plan gösterilirken hata oluştu: {e}")
-                logger.exception(f"Plan gösterilirken hata: {e}")
-
-            if st.button(f"🗑️ Sil (Plan #{plan_id})", key=f"del_plan_{plan_id}"):
-                try:
-                    db.delete_plan(plan_id)
-                    st.success("Plan silindi!")
-                    logger.info(f"Plan #{plan_id} silindi, kullanıcı: {user}")
-                    st.experimental_rerun()
-                except Exception as e:
-                    st.error(f"❌ Plan silinirken hata oluştu: {e}")
-                    logger.exception(f"Plan silinirken hata: {e}")
-
-    st.markdown("---")
-
-    # Test geçmişini yükle
-    try:
-        st.subheader("🧪 Test Geçmişi")
-        tests = db.get_all_test_results_specific(user)
-    except Exception as e:
-        st.error(f"❌ Test geçmişi yüklenirken hata oluştu: {e}")
-        logger.exception(f"Test geçmişi yüklenirken hata: {e}")
-        tests = []
-
-    if not tests:
-        st.info("Hiç test çözülmemiş.")
-    else:
-        for test_id, test_json, correct, wrong, created_at in tests:
-            st.markdown(f"**📅 Tarih:** `{created_at}` – ✅ {correct} | ❌ {wrong}")
-            try:
-                with st.expander(f"📄 Test Detayları (#{test_id})"):
-                    test_data = json.loads(test_json)
-                    for idx, q in enumerate(test_data):
-                        st.markdown(f"**Soru {idx + 1}:** {q['question']}")
-                        st.markdown(f"- ✅ Doğru Cevap: {q['correct_answer']}")
-                        st.markdown(f"- ℹ️ Açıklama: {q['explanation']}")
-                        st.markdown("---")
-            except Exception as e:
-                st.error(f"❌ Test detayları yüklenirken hata oluştu: {e}")
-                logger.exception(f"Test detayları yüklenirken hata: {e}")
-
-            if st.button(f"🗑️ Sil (Test #{test_id})", key=f"del_test_{test_id}"):
-                try:
-                    db.delete_test_results(test_id)
-                    st.success("Test silindi!")
-                    logger.info(f"Test #{test_id} silindi, kullanıcı: {user}")
-                    st.experimental_rerun()
-                except Exception as e:
-                    st.error(f"❌ Test silinirken hata oluştu: {e}")
-                    logger.exception(f"Test silinirken hata: {e}")
+        logger.exception(f"Dashboard gösterilirken hata oluştu: {e}")
+        st.error("Bir hata oluştu, lütfen daha sonra tekrar deneyin.")
