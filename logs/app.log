@@ -1,0 +1,63 @@
+2025-08-05 17:32:15,540 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:15,540 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:15,543 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:15,544 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:15,547 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:15,547 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:15,571 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:26,408 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:26,408 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:26,431 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:27,147 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:27,147 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:27,167 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:28,052 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:28,052 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:28,076 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:28,580 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:28,580 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:28,613 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:29,417 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:29,417 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:29,439 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:30,155 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:30,155 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:30,175 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:30,178 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 17:32:30,179 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 17:32:30,180 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 17:32:33,687 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:33,687 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:33,712 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:36:24,283 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:24,283 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:24,302 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:36:24,306 - INFO - Kullanıcı plan girdi oluşturdu: {'topic': 'İngilizce Zamanlar', 'level': 'Başlangıç', 'daily_minutes': 60, 'start_date': '2025-08-05', 'duration_days': 14}
+2025-08-05 17:36:24,306 - INFO - generate_learning_path_json çağrıldı: topic=İngilizce Zamanlar, level=Başlangıç
+2025-08-05 17:36:24,307 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:36:29,128 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:36:29,128 - INFO - generate_learning_path_json başarıyla tamamlandı.
+2025-08-05 17:36:29,128 - INFO - generate_study_plan_json çağrıldı: daily_minutes=60, start_date=2025-08-05, duration_days=14
+2025-08-05 17:36:29,129 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:36:33,347 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:36:33,347 - INFO - generate_study_plan_json başarıyla tamamlandı.
+2025-08-05 17:36:33,357 - INFO - Plan kaydedildi - Kullanıcı: demo_user
+2025-08-05 17:36:33,357 - INFO - Plan başarıyla kaydedildi kullanıcı: demo_user
+2025-08-05 17:36:38,087 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,087 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,088 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,088 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,089 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,089 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,090 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,090 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,091 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,091 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,091 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,091 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,111 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:36:38,111 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:36:38,115 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,115 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,115 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,115 - INFO - DB bağlantısı kuruldu: data/app_data.db
