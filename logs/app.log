@@ -61,3 +61,48 @@
 2025-08-05 17:36:38,115 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
 2025-08-05 17:36:38,115 - INFO - DB bağlantısı kuruldu: data/app_data.db
 2025-08-05 17:36:38,115 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,628 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,628 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,628 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,629 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,629 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,629 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,631 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,631 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,631 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,632 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,632 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,632 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,634 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,634 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,634 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,634 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,634 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,634 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,689 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:50:42,689 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:50:42,689 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:50:42,694 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,694 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,694 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,695 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,695 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,695 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,728 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 17:50:42,728 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 17:50:42,728 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 17:50:42,734 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:50:42,734 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:50:42,734 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:50:49,882 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:50:49,882 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:50:49,882 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:50:49,883 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 17:50:49,883 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 17:50:49,883 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 17:50:49,889 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 17:50:49,889 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 17:50:49,889 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 17:50:49,891 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 17:50:49,891 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 17:50:49,891 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
