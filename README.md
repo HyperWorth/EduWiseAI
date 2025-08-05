@@ -93,5 +93,4 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 > Geliştirici: Muhammed Ali UĞUR
 
-```
 
