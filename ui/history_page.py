@@ -60,7 +60,11 @@ def show_history(user):
                     test_data = json.loads(test_json)
                     for idx, q in enumerate(test_data):
                         st.markdown(f"**Soru {idx + 1}:** {q['question']}")
-                        st.markdown(f"- ✅ Doğru Cevap: {q['correct_answer']}")
+                        if q.get("user_answer") == q["correct_answer"]:
+                            st.markdown(f"- ✅ Doğru Cevap: {q['correct_answer']}")
+                        else:
+                            st.markdown(f"- ❌ Kullanıcının Cevap: {q.get('user_answer', 'Cevap yok')}")
+                            st.markdown(f"- ✅ Doğru Cevap: {q['correct_answer']}")
                         st.markdown(f"- ℹ️ Açıklama: {q['explanation']}")
                         st.markdown("---")
             except Exception as e:
