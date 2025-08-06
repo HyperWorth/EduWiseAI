@@ -66,9 +66,8 @@ Ardından tarayıcınızda otomatik olarak açılacaktır. (Varsayılan olarak `
 
 ## 🎥 Demo
 
-📽 [Demo Videosunu İzle](demo-linki-buraya)
 
-> Video yayına alındığında buradaki bağlantı güncellenmelidir.
+https://github.com/user-attachments/assets/a8454fa9-90b6-4dd9-a098-d549b032629a
 
 ---
 
