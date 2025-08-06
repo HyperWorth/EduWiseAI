@@ -67,7 +67,7 @@ Ardından tarayıcınızda otomatik olarak açılacaktır. (Varsayılan olarak `
 ## 🎥 Demo
 
 
-https://github.com/user-attachments/assets/a8454fa9-90b6-4dd9-a098-d549b032629a
+https://www.youtube.com/watch?v=b22Bc6IMMfw
 
 ---
 
