@@ -35,7 +35,7 @@ def show_history(user):
                     db.delete_plan(plan_id)
                     st.success("Plan silindi!")
                     logger.info(f"Plan #{plan_id} silindi, kullanıcı: {user}")
-                    st.experimental_rerun()
+                    st.rerun()
                 except Exception as e:
                     st.error(f"❌ Plan silinirken hata oluştu: {e}")
                     logger.exception(f"Plan silinirken hata: {e}")
@@ -76,7 +76,7 @@ def show_history(user):
                     db.delete_test_results(test_id)
                     st.success("Test silindi!")
                     logger.info(f"Test #{test_id} silindi, kullanıcı: {user}")
-                    st.experimental_rerun()
+                    st.rerun()
                 except Exception as e:
                     st.error(f"❌ Test silinirken hata oluştu: {e}")
                     logger.exception(f"Test silinirken hata: {e}")

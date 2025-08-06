@@ -1,0 +1,1090 @@
+2025-08-05 17:32:15,540 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:15,540 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:15,543 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:15,544 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:15,547 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:15,547 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:15,571 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:26,408 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:26,408 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:26,431 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:27,147 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:27,147 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:27,167 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:28,052 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:28,052 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:28,076 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:28,580 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:28,580 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:28,613 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:29,417 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:29,417 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:29,439 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:30,155 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:30,155 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:30,175 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:32:30,178 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 17:32:30,179 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 17:32:30,180 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 17:32:33,687 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:32:33,687 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:32:33,712 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:36:24,283 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:24,283 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:24,302 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:36:24,306 - INFO - Kullanıcı plan girdi oluşturdu: {'topic': 'İngilizce Zamanlar', 'level': 'Başlangıç', 'daily_minutes': 60, 'start_date': '2025-08-05', 'duration_days': 14}
+2025-08-05 17:36:24,306 - INFO - generate_learning_path_json çağrıldı: topic=İngilizce Zamanlar, level=Başlangıç
+2025-08-05 17:36:24,307 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:36:29,128 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:36:29,128 - INFO - generate_learning_path_json başarıyla tamamlandı.
+2025-08-05 17:36:29,128 - INFO - generate_study_plan_json çağrıldı: daily_minutes=60, start_date=2025-08-05, duration_days=14
+2025-08-05 17:36:29,129 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:36:33,347 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:36:33,347 - INFO - generate_study_plan_json başarıyla tamamlandı.
+2025-08-05 17:36:33,357 - INFO - Plan kaydedildi - Kullanıcı: demo_user
+2025-08-05 17:36:33,357 - INFO - Plan başarıyla kaydedildi kullanıcı: demo_user
+2025-08-05 17:36:38,087 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,087 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,088 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,088 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,089 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,089 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,090 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,090 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,091 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,091 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,091 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,091 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,111 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:36:38,111 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:36:38,115 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,115 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:36:38,115 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:36:38,115 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,628 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,628 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,628 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,629 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,629 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,629 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,631 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,631 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,631 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,632 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,632 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,632 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,634 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,634 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,634 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,634 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,634 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,634 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,689 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:50:42,689 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:50:42,689 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 17:50:42,694 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,694 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,694 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 17:50:42,695 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,695 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,695 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 17:50:42,728 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 17:50:42,728 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 17:50:42,728 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 17:50:42,734 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:50:42,734 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:50:42,734 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 17:50:49,882 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:50:49,882 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:50:49,882 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 17:50:49,883 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 17:50:49,883 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 17:50:49,883 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 17:50:49,889 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 17:50:49,889 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 17:50:49,889 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 17:50:49,891 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 17:50:49,891 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 17:50:49,891 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 21:03:28,017 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:03:28,018 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:03:28,024 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:03:28,024 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:03:28,029 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:03:28,030 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:03:28,188 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:09:43,447 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:09:43,448 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:09:43,487 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:09:44,496 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:09:44,497 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:09:44,534 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:09:44,548 - INFO - generate_question_for_topic çağrıldı: topic=Simple Past Tense, difficulty=easy, count=5
+2025-08-05 21:09:44,549 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:09:46,577 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:09:46,577 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:09:46,626 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:09:46,627 - INFO - Test başarıyla oluşturuldu kullanıcı: demo_user, konu: Simple Past Tense
+2025-08-05 21:09:48,573 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:09:48,574 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:09:48,620 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:09:48,626 - INFO - Test sayfası için 5 soru yüklendi.
+2025-08-05 21:13:31,321 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:13:31,322 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:13:31,364 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:13:32,904 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:13:32,905 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:13:32,963 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:13:32,970 - INFO - generate_question_for_topic çağrıldı: topic=Simple Past Tense, difficulty=easy, count=5
+2025-08-05 21:13:32,972 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:13:34,862 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:13:34,862 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:13:34,912 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:13:34,915 - INFO - Test başarıyla oluşturuldu kullanıcı: demo_user, konu: Simple Past Tense
+2025-08-05 21:24:35,377 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:35,378 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:35,436 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:24:35,538 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:35,538 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:35,600 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:24:36,149 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:36,150 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:36,209 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:24:36,704 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:36,704 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:36,744 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:24:36,751 - INFO - generate_question_for_topic çağrıldı: topic=Temel Matematik, difficulty=easy, count=40
+2025-08-05 21:24:36,751 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:24:43,356 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:24:43,357 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:24:43,408 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:24:43,410 - INFO - Test başarıyla oluşturuldu kullanıcı: demo_user, konu: Temel Matematik
+2025-08-05 21:24:47,354 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:47,355 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:47,401 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:24:47,408 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:24:51,491 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:51,492 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:51,532 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:24:51,536 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:24:51,631 - INFO - Test tamamlandı. Doğru: 7, Yanlış: 33
+2025-08-05 21:24:51,634 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:51,635 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:51,684 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 7, Yanlış: 33
+2025-08-05 21:24:51,685 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:24:53,651 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:53,651 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:53,699 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:24:53,708 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:24:53,714 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:24:53,715 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:24:53,812 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:24:53,902 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:27:24,875 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:27:24,875 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:27:24,877 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:27:24,877 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:27:24,900 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:27:24,900 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:27:24,904 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:27:24,904 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:27:24,922 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:27:24,922 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:27:24,923 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:27:24,923 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:27:25,001 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:27:25,001 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:27:25,008 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:27:25,008 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:27:25,018 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:27:25,018 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:27:25,021 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:27:25,021 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:27:25,234 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:27:25,234 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:27:25,435 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:27:25,435 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:28:11,187 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:11,187 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:11,188 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:11,188 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:11,255 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:11,255 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:16,182 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:16,182 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:16,183 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:16,183 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:16,357 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:16,357 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:31,689 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:31,689 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:31,690 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:31,690 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:31,733 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:31,733 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:32,009 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:32,009 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:32,010 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:32,010 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:32,064 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:32,064 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:32,624 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:32,624 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:32,625 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:32,625 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:32,678 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:32,678 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:32,947 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:32,947 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:32,948 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:32,948 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:32,998 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:32,998 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:34,340 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:34,340 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:34,341 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:34,341 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:34,390 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:34,390 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:35,984 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:35,984 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:35,985 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:35,985 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:36,024 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:36,024 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:36,439 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:36,439 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:36,440 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:36,440 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:36,483 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:36,483 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:36,716 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:36,716 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:36,717 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:36,717 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:36,757 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:36,757 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:43,105 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:43,105 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:43,106 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:43,106 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:43,158 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:43,158 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:43,269 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:43,269 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:28:43,270 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:43,270 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:28:43,322 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:43,322 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:28:43,340 - INFO - Kullanıcı plan girdi oluşturdu: {'topic': 'YKS', 'level': 'Başlangıç', 'daily_minutes': 120, 'start_date': '2025-08-05', 'duration_days': 270}
+2025-08-05 21:28:43,340 - INFO - Kullanıcı plan girdi oluşturdu: {'topic': 'YKS', 'level': 'Başlangıç', 'daily_minutes': 120, 'start_date': '2025-08-05', 'duration_days': 270}
+2025-08-05 21:28:43,343 - INFO - generate_learning_path_json çağrıldı: topic=YKS, level=Başlangıç
+2025-08-05 21:28:43,343 - INFO - generate_learning_path_json çağrıldı: topic=YKS, level=Başlangıç
+2025-08-05 21:28:43,344 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:28:43,344 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:29:11,670 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:29:11,670 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:29:11,671 - INFO - generate_learning_path_json başarıyla tamamlandı.
+2025-08-05 21:29:11,671 - INFO - generate_learning_path_json başarıyla tamamlandı.
+2025-08-05 21:29:11,672 - INFO - generate_study_plan_json çağrıldı: daily_minutes=120, start_date=2025-08-05, duration_days=270
+2025-08-05 21:29:11,672 - INFO - generate_study_plan_json çağrıldı: daily_minutes=120, start_date=2025-08-05, duration_days=270
+2025-08-05 21:29:11,673 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:29:11,673 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:30:43,979 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:30:43,979 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:30:43,980 - INFO - generate_study_plan_json başarıyla tamamlandı.
+2025-08-05 21:30:43,980 - INFO - generate_study_plan_json başarıyla tamamlandı.
+2025-08-05 21:30:44,041 - INFO - Plan kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:30:44,041 - INFO - Plan kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:30:44,042 - INFO - Plan başarıyla kaydedildi kullanıcı: demo_user
+2025-08-05 21:30:44,042 - INFO - Plan başarıyla kaydedildi kullanıcı: demo_user
+2025-08-05 21:31:14,072 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:31:14,072 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:31:14,073 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:31:14,073 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:31:14,119 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:31:14,119 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:31:14,128 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:31:14,128 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:31:14,129 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:31:14,129 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:31:49,285 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:31:49,285 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:31:49,286 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:31:49,286 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:31:49,369 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:31:49,369 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:31:49,376 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:31:49,376 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:31:49,377 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:31:49,377 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:31:49,474 - INFO - generate_question_for_topic çağrıldı: topic=Cümlede Anlam Konusunu Test Et, difficulty=medium, count=40
+2025-08-05 21:31:49,474 - INFO - generate_question_for_topic çağrıldı: topic=Cümlede Anlam Konusunu Test Et, difficulty=medium, count=40
+2025-08-05 21:31:49,475 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:31:49,475 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:32:12,622 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:32:12,622 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:32:12,623 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:32:12,623 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:32:12,675 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:32:12,675 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:32:12,677 - INFO - Test başarıyla üretildi: Cümlede Anlam Konusunu Test Et
+2025-08-05 21:32:12,677 - INFO - Test başarıyla üretildi: Cümlede Anlam Konusunu Test Et
+2025-08-05 21:32:17,097 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:17,097 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:17,098 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:17,098 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:17,145 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:17,145 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:17,941 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:17,941 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:17,942 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:17,942 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:17,990 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:17,990 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:17,998 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:17,998 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:27,334 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:27,334 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:27,335 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:27,335 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:27,395 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:27,395 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:27,401 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:27,401 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:28,420 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:28,420 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:28,422 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:28,422 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:28,468 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:28,468 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:28,474 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:28,474 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:28,894 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:28,894 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:28,895 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:28,895 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:28,949 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:28,949 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:28,954 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:28,954 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:30,210 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:30,210 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:30,211 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:30,211 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:30,253 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:30,253 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:30,260 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:30,260 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:34,812 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:34,812 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:34,813 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:34,813 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:34,867 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:34,867 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:34,873 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:34,873 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:42,084 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:42,084 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:42,085 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:42,085 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:42,154 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:42,154 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:32:42,166 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:42,166 - INFO - Test sayfası için 41 soru yüklendi.
+2025-08-05 21:32:42,272 - INFO - Test tamamlandı. Doğru: 8, Yanlış: 33
+2025-08-05 21:32:42,272 - INFO - Test tamamlandı. Doğru: 8, Yanlış: 33
+2025-08-05 21:32:42,274 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:42,274 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:32:42,275 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:42,275 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:32:42,325 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 8, Yanlış: 33
+2025-08-05 21:32:42,325 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 8, Yanlış: 33
+2025-08-05 21:32:42,327 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:32:42,327 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:33:11,724 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:33:11,724 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:33:11,725 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:33:11,725 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:33:11,784 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:33:11,784 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:33:11,790 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:33:11,790 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:33:11,802 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:33:11,802 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:33:11,816 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:33:11,816 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:33:11,821 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:33:11,821 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:33:11,829 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:33:11,829 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:34:03,008 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:34:03,008 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:34:03,008 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:34:03,010 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:34:03,010 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:34:03,010 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:34:03,012 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:34:03,012 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:34:03,012 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:34:03,013 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:34:03,013 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:34:03,013 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:34:03,059 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:34:03,059 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:34:03,059 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:34:03,065 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,065 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,065 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,069 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,069 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,069 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,071 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:34:03,071 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:34:03,071 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:34:03,073 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,073 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,073 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:34:03,075 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:34:03,075 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:34:03,075 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:34:03,080 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:34:03,080 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:34:03,080 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:34:03,198 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,198 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,198 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,231 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:34:03,231 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:34:03,231 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:34:03,241 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,241 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,241 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,256 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:34:03,256 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:34:03,256 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:34:03,267 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,267 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,267 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,292 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:34:03,292 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:34:03,292 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:34:03,310 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,310 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:34:03,310 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,028 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:50,028 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:50,028 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:50,028 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:50,029 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:50,029 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:50,029 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:50,029 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:50,032 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:50,032 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:50,032 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:50,032 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:50,033 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:50,033 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:50,033 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:50,033 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:50,079 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:35:50,079 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:35:50,079 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:35:50,079 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:35:50,084 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,084 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,084 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,084 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,086 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,086 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,086 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,086 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,088 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:35:50,088 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:35:50,088 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:35:50,088 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:35:50,090 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,090 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,090 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,090 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:50,092 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:35:50,092 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:35:50,092 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:35:50,092 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:35:50,095 - INFO - Dashboard gösteriliyor: Kullanıcı = demo_user
+2025-08-05 21:35:50,095 - INFO - Dashboard gösteriliyor: Kullanıcı = demo_user
+2025-08-05 21:35:50,095 - INFO - Dashboard gösteriliyor: Kullanıcı = demo_user
+2025-08-05 21:35:50,095 - INFO - Dashboard gösteriliyor: Kullanıcı = demo_user
+2025-08-05 21:35:50,100 - DEBUG - Motivasyon mesajı seçildi: Sadece başla. Mükemmellik zamanla gelir. ⏳
+2025-08-05 21:35:50,100 - DEBUG - Motivasyon mesajı seçildi: Sadece başla. Mükemmellik zamanla gelir. ⏳
+2025-08-05 21:35:50,100 - DEBUG - Motivasyon mesajı seçildi: Sadece başla. Mükemmellik zamanla gelir. ⏳
+2025-08-05 21:35:50,100 - DEBUG - Motivasyon mesajı seçildi: Sadece başla. Mükemmellik zamanla gelir. ⏳
+2025-08-05 21:35:50,102 - DEBUG - Günlük ilerleme grafiği oluşturuluyor.
+2025-08-05 21:35:50,102 - DEBUG - Günlük ilerleme grafiği oluşturuluyor.
+2025-08-05 21:35:50,102 - DEBUG - Günlük ilerleme grafiği oluşturuluyor.
+2025-08-05 21:35:50,102 - DEBUG - Günlük ilerleme grafiği oluşturuluyor.
+2025-08-05 21:35:50,104 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:35:50,104 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:35:50,104 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:35:50,104 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:35:50,115 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,115 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,115 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,115 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,119 - DEBUG - Konu dağılım grafiği oluşturuluyor.
+2025-08-05 21:35:50,119 - DEBUG - Konu dağılım grafiği oluşturuluyor.
+2025-08-05 21:35:50,119 - DEBUG - Konu dağılım grafiği oluşturuluyor.
+2025-08-05 21:35:50,119 - DEBUG - Konu dağılım grafiği oluşturuluyor.
+2025-08-05 21:35:50,122 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:35:50,122 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:35:50,122 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:35:50,122 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:35:50,130 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,130 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,130 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,130 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,136 - DEBUG - Test performansı grafikleri oluşturuluyor.
+2025-08-05 21:35:50,136 - DEBUG - Test performansı grafikleri oluşturuluyor.
+2025-08-05 21:35:50,136 - DEBUG - Test performansı grafikleri oluşturuluyor.
+2025-08-05 21:35:50,136 - DEBUG - Test performansı grafikleri oluşturuluyor.
+2025-08-05 21:35:50,142 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:35:50,142 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:35:50,142 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:35:50,142 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:35:50,150 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,150 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,150 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,150 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,156 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:35:50,156 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:35:50,156 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:35:50,156 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:35:50,162 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,162 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,162 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,162 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:50,172 - INFO - Dashboard başarıyla gösterildi: demo_user - Tarih: 05 August 2025
+2025-08-05 21:35:50,172 - INFO - Dashboard başarıyla gösterildi: demo_user - Tarih: 05 August 2025
+2025-08-05 21:35:50,172 - INFO - Dashboard başarıyla gösterildi: demo_user - Tarih: 05 August 2025
+2025-08-05 21:35:50,172 - INFO - Dashboard başarıyla gösterildi: demo_user - Tarih: 05 August 2025
+2025-08-05 21:35:52,996 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:52,996 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:52,996 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:52,996 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:35:52,997 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:52,997 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:52,997 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:52,997 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:35:53,050 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:35:53,050 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:35:53,050 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:35:53,050 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:35:53,056 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,056 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,056 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,056 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,058 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,058 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,058 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,058 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,061 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:35:53,061 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:35:53,061 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:35:53,061 - INFO - Zorluk dağılımı hesaplandı - Kullanıcı: demo_user
+2025-08-05 21:35:53,064 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,064 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,064 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,064 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:35:53,066 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:35:53,066 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:35:53,066 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:35:53,066 - INFO - Konu dakika tahmini yapıldı - Kullanıcı: demo_user
+2025-08-05 21:35:53,070 - INFO - Dashboard gösteriliyor: Kullanıcı = demo_user
+2025-08-05 21:35:53,070 - INFO - Dashboard gösteriliyor: Kullanıcı = demo_user
+2025-08-05 21:35:53,070 - INFO - Dashboard gösteriliyor: Kullanıcı = demo_user
+2025-08-05 21:35:53,070 - INFO - Dashboard gösteriliyor: Kullanıcı = demo_user
+2025-08-05 21:35:53,076 - DEBUG - Motivasyon mesajı seçildi: Her gün 1% ilerle, 1 yıl sonunda %37 daha iyi olursun. 📈
+2025-08-05 21:35:53,076 - DEBUG - Motivasyon mesajı seçildi: Her gün 1% ilerle, 1 yıl sonunda %37 daha iyi olursun. 📈
+2025-08-05 21:35:53,076 - DEBUG - Motivasyon mesajı seçildi: Her gün 1% ilerle, 1 yıl sonunda %37 daha iyi olursun. 📈
+2025-08-05 21:35:53,076 - DEBUG - Motivasyon mesajı seçildi: Her gün 1% ilerle, 1 yıl sonunda %37 daha iyi olursun. 📈
+2025-08-05 21:35:53,077 - DEBUG - Günlük ilerleme grafiği oluşturuluyor.
+2025-08-05 21:35:53,077 - DEBUG - Günlük ilerleme grafiği oluşturuluyor.
+2025-08-05 21:35:53,077 - DEBUG - Günlük ilerleme grafiği oluşturuluyor.
+2025-08-05 21:35:53,077 - DEBUG - Günlük ilerleme grafiği oluşturuluyor.
+2025-08-05 21:35:53,082 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:35:53,082 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:35:53,082 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:35:53,082 - INFO - Günlük çalışma süresi grafiği oluşturuluyor.
+2025-08-05 21:35:53,096 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,096 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,096 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,096 - INFO - Günlük çalışma süresi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,102 - DEBUG - Konu dağılım grafiği oluşturuluyor.
+2025-08-05 21:35:53,102 - DEBUG - Konu dağılım grafiği oluşturuluyor.
+2025-08-05 21:35:53,102 - DEBUG - Konu dağılım grafiği oluşturuluyor.
+2025-08-05 21:35:53,102 - DEBUG - Konu dağılım grafiği oluşturuluyor.
+2025-08-05 21:35:53,106 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:35:53,106 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:35:53,106 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:35:53,106 - INFO - Konu bazlı çalışma dağılımı grafiği oluşturuluyor.
+2025-08-05 21:35:53,119 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,119 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,119 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,119 - INFO - Konu bazlı çalışma dağılımı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,150 - DEBUG - Test performansı grafikleri oluşturuluyor.
+2025-08-05 21:35:53,150 - DEBUG - Test performansı grafikleri oluşturuluyor.
+2025-08-05 21:35:53,150 - DEBUG - Test performansı grafikleri oluşturuluyor.
+2025-08-05 21:35:53,150 - DEBUG - Test performansı grafikleri oluşturuluyor.
+2025-08-05 21:35:53,160 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:35:53,160 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:35:53,160 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:35:53,160 - INFO - Soru başarı analizi grafiği oluşturuluyor.
+2025-08-05 21:35:53,172 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,172 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,172 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,172 - INFO - Soru başarı analizi grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,180 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:35:53,180 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:35:53,180 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:35:53,180 - INFO - Zorluk seviyesine göre başarı grafiği oluşturuluyor.
+2025-08-05 21:35:53,194 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,194 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,194 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,194 - INFO - Zorluk seviyesine göre başarı grafiği başarıyla oluşturuldu.
+2025-08-05 21:35:53,204 - INFO - Dashboard başarıyla gösterildi: demo_user - Tarih: 05 August 2025
+2025-08-05 21:35:53,204 - INFO - Dashboard başarıyla gösterildi: demo_user - Tarih: 05 August 2025
+2025-08-05 21:35:53,204 - INFO - Dashboard başarıyla gösterildi: demo_user - Tarih: 05 August 2025
+2025-08-05 21:35:53,204 - INFO - Dashboard başarıyla gösterildi: demo_user - Tarih: 05 August 2025
+2025-08-05 21:36:24,991 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:24,991 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:24,991 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:24,991 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:24,992 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:24,992 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:24,992 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:24,992 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,044 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:25,044 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:25,044 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:25,044 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:25,052 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:36:25,052 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:36:25,052 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:36:25,052 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:36:25,061 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:25,061 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:25,061 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:25,061 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:25,063 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,063 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,063 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,063 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,891 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:25,891 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:25,891 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:25,891 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:25,892 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,892 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,892 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,892 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:25,967 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:36:25,967 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:36:25,967 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:36:25,967 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:36:26,126 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:36:26,126 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:36:26,126 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:36:26,126 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:36:39,391 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:39,391 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:39,391 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:39,391 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:39,393 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:39,393 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:39,393 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:39,393 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:39,435 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:39,435 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:39,435 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:39,435 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:39,450 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:36:39,450 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:36:39,450 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:36:39,450 - INFO - Tüm planlar alındı - Kullanıcı: demo_user
+2025-08-05 21:36:39,458 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:39,458 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:39,458 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:39,458 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:39,460 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:39,460 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:39,460 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:39,460 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:40,217 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:40,217 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:40,217 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:40,217 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:40,222 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:40,222 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:40,222 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:40,222 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:40,272 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 21:36:40,272 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 21:36:40,272 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 21:36:40,272 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=medium, count=40
+2025-08-05 21:36:40,275 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:36:40,275 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:36:40,275 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:36:40,275 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:36:49,929 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:36:49,929 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:36:49,929 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:36:49,929 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:36:49,931 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:36:49,931 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:36:49,931 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:36:49,931 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:36:49,967 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:36:49,967 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:36:49,967 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:36:49,967 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:36:49,970 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 21:36:49,970 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 21:36:49,970 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 21:36:49,970 - INFO - Test başarıyla üretildi: Bugüne kadar öğrenilen Present Simple konularını tekrar et
+2025-08-05 21:36:49,995 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:36:49,995 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:36:49,995 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:36:49,995 - INFO - Özel test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:36:50,203 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:36:50,203 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:36:50,203 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:36:50,203 - INFO - Geçmiş görüntülendi kullanıcı: demo_user
+2025-08-05 21:36:55,163 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:55,163 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:55,163 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:55,163 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:36:55,164 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:55,164 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:55,164 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:55,164 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:36:55,225 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:55,225 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:55,225 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:55,225 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:36:55,231 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:36:55,231 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:36:55,231 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:36:55,231 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:37:02,973 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:02,973 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:02,973 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:02,973 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:02,975 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:02,975 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:02,975 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:02,975 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:03,023 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:03,023 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:03,023 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:03,023 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:03,031 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:37:03,031 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:37:03,031 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:37:03,031 - INFO - Test sayfası için 40 soru yüklendi.
+2025-08-05 21:37:03,118 - INFO - Test tamamlandı. Doğru: 5, Yanlış: 35
+2025-08-05 21:37:03,118 - INFO - Test tamamlandı. Doğru: 5, Yanlış: 35
+2025-08-05 21:37:03,118 - INFO - Test tamamlandı. Doğru: 5, Yanlış: 35
+2025-08-05 21:37:03,118 - INFO - Test tamamlandı. Doğru: 5, Yanlış: 35
+2025-08-05 21:37:03,122 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:03,122 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:03,122 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:03,122 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:03,126 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:03,126 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:03,126 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:03,126 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:03,176 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 5, Yanlış: 35
+2025-08-05 21:37:03,176 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 5, Yanlış: 35
+2025-08-05 21:37:03,176 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 5, Yanlış: 35
+2025-08-05 21:37:03,176 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 5, Yanlış: 35
+2025-08-05 21:37:03,178 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:37:03,178 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:37:03,178 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:37:03,178 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:37:08,081 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,081 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,081 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,081 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,083 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,083 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,083 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,083 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,136 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:08,136 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:08,136 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:08,136 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:08,598 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,598 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,598 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,598 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,599 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,599 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,599 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,599 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,654 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:08,654 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:08,654 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:08,654 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:08,660 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,660 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,660 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,660 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:08,662 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,662 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,662 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:08,662 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,118 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:52,118 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:52,118 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:52,118 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:52,120 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,120 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,120 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,120 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,178 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:52,178 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:52,178 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:52,178 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:52,187 - INFO - PDF oluşturma işlemi başladı.
+2025-08-05 21:37:52,187 - INFO - PDF oluşturma işlemi başladı.
+2025-08-05 21:37:52,187 - INFO - PDF oluşturma işlemi başladı.
+2025-08-05 21:37:52,187 - INFO - PDF oluşturma işlemi başladı.
+2025-08-05 21:37:52,190 - DEBUG - Plan verisi 270 öğe içeriyor.
+2025-08-05 21:37:52,190 - DEBUG - Plan verisi 270 öğe içeriyor.
+2025-08-05 21:37:52,190 - DEBUG - Plan verisi 270 öğe içeriyor.
+2025-08-05 21:37:52,190 - DEBUG - Plan verisi 270 öğe içeriyor.
+2025-08-05 21:37:52,616 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:52,616 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:52,616 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:52,616 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:52,619 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,619 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,619 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,619 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:52,711 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:52,711 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:52,711 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:52,711 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:52,857 - INFO - PDF başarıyla oluşturuldu.
+2025-08-05 21:37:52,857 - INFO - PDF başarıyla oluşturuldu.
+2025-08-05 21:37:52,857 - INFO - PDF başarıyla oluşturuldu.
+2025-08-05 21:37:52,857 - INFO - PDF başarıyla oluşturuldu.
+2025-08-05 21:37:53,816 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:53,816 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:53,816 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:53,816 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:37:53,817 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:53,817 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:53,817 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:53,817 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:37:53,867 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:53,867 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:53,867 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:53,867 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:37:53,873 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:37:53,873 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:37:53,873 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:37:53,873 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:37:53,876 - INFO - analyze_topics_with_weights fonksiyonu çağrıldı, kayıt sayısı: 3
+2025-08-05 21:37:53,876 - INFO - analyze_topics_with_weights fonksiyonu çağrıldı, kayıt sayısı: 3
+2025-08-05 21:37:53,876 - INFO - analyze_topics_with_weights fonksiyonu çağrıldı, kayıt sayısı: 3
+2025-08-05 21:37:53,876 - INFO - analyze_topics_with_weights fonksiyonu çağrıldı, kayıt sayısı: 3
+2025-08-05 21:37:53,878 - INFO - analyze_topics_with_weights fonksiyonu başarıyla tamamlandı, 3 konu analiz edildi.
+2025-08-05 21:37:53,878 - INFO - analyze_topics_with_weights fonksiyonu başarıyla tamamlandı, 3 konu analiz edildi.
+2025-08-05 21:37:53,878 - INFO - analyze_topics_with_weights fonksiyonu başarıyla tamamlandı, 3 konu analiz edildi.
+2025-08-05 21:37:53,878 - INFO - analyze_topics_with_weights fonksiyonu başarıyla tamamlandı, 3 konu analiz edildi.
+2025-08-05 21:37:53,881 - INFO - Zorluk analizi tamamlandı.
+2025-08-05 21:37:53,881 - INFO - Zorluk analizi tamamlandı.
+2025-08-05 21:37:53,881 - INFO - Zorluk analizi tamamlandı.
+2025-08-05 21:37:53,881 - INFO - Zorluk analizi tamamlandı.
+2025-08-05 21:38:03,824 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:03,824 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:03,824 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:03,824 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:03,826 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:03,826 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:03,826 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:03,826 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:03,893 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:03,893 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:03,893 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:03,893 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:04,512 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:04,512 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:04,512 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:04,512 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:04,513 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:04,513 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:04,513 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:04,513 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:04,559 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:04,559 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:04,559 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:04,559 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:04,572 - INFO - generate_questions_from_analysis çağrıldı, toplam soru sayısı: 35
+2025-08-05 21:38:04,572 - INFO - generate_questions_from_analysis çağrıldı, toplam soru sayısı: 35
+2025-08-05 21:38:04,572 - INFO - generate_questions_from_analysis çağrıldı, toplam soru sayısı: 35
+2025-08-05 21:38:04,572 - INFO - generate_questions_from_analysis çağrıldı, toplam soru sayısı: 35
+2025-08-05 21:38:04,574 - INFO - generate_question_for_topic çağrıldı: topic=Temel Matematik, difficulty=easy, count=14
+2025-08-05 21:38:04,574 - INFO - generate_question_for_topic çağrıldı: topic=Temel Matematik, difficulty=easy, count=14
+2025-08-05 21:38:04,574 - INFO - generate_question_for_topic çağrıldı: topic=Temel Matematik, difficulty=easy, count=14
+2025-08-05 21:38:04,574 - INFO - generate_question_for_topic çağrıldı: topic=Temel Matematik, difficulty=easy, count=14
+2025-08-05 21:38:04,576 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:04,576 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:04,576 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:04,576 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:09,657 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:09,657 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:09,657 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:09,657 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:09,659 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:09,659 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:09,659 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:09,659 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:09,659 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=easy, count=10
+2025-08-05 21:38:09,659 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=easy, count=10
+2025-08-05 21:38:09,659 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=easy, count=10
+2025-08-05 21:38:09,659 - INFO - generate_question_for_topic çağrıldı: topic=Bugüne kadar öğrenilen Present Simple konularını tekrar et, difficulty=easy, count=10
+2025-08-05 21:38:09,661 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:09,661 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:09,661 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:09,661 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:14,052 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:14,052 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:14,052 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:14,052 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:14,054 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:14,054 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:14,054 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:14,054 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:14,055 - INFO - generate_question_for_topic çağrıldı: topic=Cümlede Anlam Konusunu Test Et, difficulty=easy, count=11
+2025-08-05 21:38:14,055 - INFO - generate_question_for_topic çağrıldı: topic=Cümlede Anlam Konusunu Test Et, difficulty=easy, count=11
+2025-08-05 21:38:14,055 - INFO - generate_question_for_topic çağrıldı: topic=Cümlede Anlam Konusunu Test Et, difficulty=easy, count=11
+2025-08-05 21:38:14,055 - INFO - generate_question_for_topic çağrıldı: topic=Cümlede Anlam Konusunu Test Et, difficulty=easy, count=11
+2025-08-05 21:38:14,055 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:14,055 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:14,055 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:14,055 - INFO - call_gemini_json_response çağrıldı, model: gemini-2.5-flash-lite
+2025-08-05 21:38:19,088 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:19,088 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:19,088 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:19,088 - INFO - call_gemini_json_response başarıyla tamamlandı
+2025-08-05 21:38:19,090 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:19,090 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:19,090 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:19,090 - INFO - generate_question_for_topic başarıyla tamamlandı.
+2025-08-05 21:38:19,091 - INFO - generate_questions_from_analysis tamamlandı, toplam üretilen soru: 35
+2025-08-05 21:38:19,091 - INFO - generate_questions_from_analysis tamamlandı, toplam üretilen soru: 35
+2025-08-05 21:38:19,091 - INFO - generate_questions_from_analysis tamamlandı, toplam üretilen soru: 35
+2025-08-05 21:38:19,091 - INFO - generate_questions_from_analysis tamamlandı, toplam üretilen soru: 35
+2025-08-05 21:38:19,144 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:38:19,144 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:38:19,144 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:38:19,144 - INFO - Test kaydedildi - Kullanıcı: demo_user
+2025-08-05 21:38:19,146 - INFO - Zorluk analizinden test üretildi kullanıcı: demo_user
+2025-08-05 21:38:19,146 - INFO - Zorluk analizinden test üretildi kullanıcı: demo_user
+2025-08-05 21:38:19,146 - INFO - Zorluk analizinden test üretildi kullanıcı: demo_user
+2025-08-05 21:38:19,146 - INFO - Zorluk analizinden test üretildi kullanıcı: demo_user
+2025-08-05 21:38:22,056 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:22,056 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:22,056 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:22,056 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:22,058 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:22,058 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:22,058 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:22,058 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:22,108 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:22,108 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:22,108 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:22,108 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:22,113 - INFO - Test sayfası için 35 soru yüklendi.
+2025-08-05 21:38:22,113 - INFO - Test sayfası için 35 soru yüklendi.
+2025-08-05 21:38:22,113 - INFO - Test sayfası için 35 soru yüklendi.
+2025-08-05 21:38:22,113 - INFO - Test sayfası için 35 soru yüklendi.
+2025-08-05 21:38:34,219 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:34,219 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:34,219 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:34,219 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:34,221 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:34,221 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:34,221 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:34,221 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:34,270 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:34,270 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:34,270 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:34,270 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:34,275 - INFO - Test sayfası için 35 soru yüklendi.
+2025-08-05 21:38:34,275 - INFO - Test sayfası için 35 soru yüklendi.
+2025-08-05 21:38:34,275 - INFO - Test sayfası için 35 soru yüklendi.
+2025-08-05 21:38:34,275 - INFO - Test sayfası için 35 soru yüklendi.
+2025-08-05 21:38:34,362 - INFO - Test tamamlandı. Doğru: 9, Yanlış: 26
+2025-08-05 21:38:34,362 - INFO - Test tamamlandı. Doğru: 9, Yanlış: 26
+2025-08-05 21:38:34,362 - INFO - Test tamamlandı. Doğru: 9, Yanlış: 26
+2025-08-05 21:38:34,362 - INFO - Test tamamlandı. Doğru: 9, Yanlış: 26
+2025-08-05 21:38:34,366 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:34,366 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:34,366 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:34,366 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:34,367 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:34,367 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:34,367 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:34,367 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:34,478 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 9, Yanlış: 26
+2025-08-05 21:38:34,478 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 9, Yanlış: 26
+2025-08-05 21:38:34,478 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 9, Yanlış: 26
+2025-08-05 21:38:34,478 - INFO - Test sonucu kaydedildi - Kullanıcı: demo_user, Doğru: 9, Yanlış: 26
+2025-08-05 21:38:34,480 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:38:34,480 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:38:34,480 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:38:34,480 - INFO - Test sonucu başarıyla veritabanına kaydedildi.
+2025-08-05 21:38:37,049 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:37,049 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:37,049 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:37,049 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:37,050 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:37,050 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:37,050 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:37,050 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:37,112 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:37,112 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:37,112 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:37,112 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:38,395 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:38,395 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:38,395 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:38,395 - INFO - Tablolar başarıyla oluşturuldu veya mevcut.
+2025-08-05 21:38:38,396 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:38,396 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:38,396 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:38,396 - INFO - DB bağlantısı kuruldu: data/app_data.db
+2025-08-05 21:38:38,447 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:38,447 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:38,447 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:38,447 - INFO - Fontlar başarıyla yüklendi.
+2025-08-05 21:38:38,454 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:38:38,454 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:38:38,454 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:38:38,454 - INFO - Tüm test sonuçları alındı - Kullanıcı: demo_user
+2025-08-05 21:38:38,457 - INFO - analyze_topics_with_weights fonksiyonu çağrıldı, kayıt sayısı: 4
+2025-08-05 21:38:38,457 - INFO - analyze_topics_with_weights fonksiyonu çağrıldı, kayıt sayısı: 4
+2025-08-05 21:38:38,457 - INFO - analyze_topics_with_weights fonksiyonu çağrıldı, kayıt sayısı: 4
+2025-08-05 21:38:38,457 - INFO - analyze_topics_with_weights fonksiyonu çağrıldı, kayıt sayısı: 4
+2025-08-05 21:38:38,458 - INFO - analyze_topics_with_weights fonksiyonu başarıyla tamamlandı, 3 konu analiz edildi.
+2025-08-05 21:38:38,458 - INFO - analyze_topics_with_weights fonksiyonu başarıyla tamamlandı, 3 konu analiz edildi.
+2025-08-05 21:38:38,458 - INFO - analyze_topics_with_weights fonksiyonu başarıyla tamamlandı, 3 konu analiz edildi.
+2025-08-05 21:38:38,458 - INFO - analyze_topics_with_weights fonksiyonu başarıyla tamamlandı, 3 konu analiz edildi.
+2025-08-05 21:38:38,462 - INFO - Zorluk analizi tamamlandı.
+2025-08-05 21:38:38,462 - INFO - Zorluk analizi tamamlandı.
+2025-08-05 21:38:38,462 - INFO - Zorluk analizi tamamlandı.
+2025-08-05 21:38:38,462 - INFO - Zorluk analizi tamamlandı.
